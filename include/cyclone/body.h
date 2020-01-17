@@ -166,7 +166,7 @@ namespace cyclone {
 
         /**
          * Holds the amount of motion of the body. This is a recency
-         * weighted mean that can be used to put a body to sleap.
+         * weighted mean that can be used to put a body to sleep.
          */
         real motion;
 
